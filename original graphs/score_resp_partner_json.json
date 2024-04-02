@@ -20,24 +20,24 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "212249": {
         "p_id": 1099,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "214227": {
         "p_id": 1100,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "16"
     },
     "218351": {
         "p_id": 1101,
@@ -68,24 +68,24 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "428211": {
         "p_id": 1105,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "497203": {
         "p_id": 1106,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "24"
+        "total_score": "14"
     },
     "516823": {
         "p_id": 1107,
@@ -97,11 +97,11 @@
     },
     "582849": {
         "p_id": 1108,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "587125": {
         "p_id": 1109,
@@ -156,24 +156,24 @@
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "643423": {
         "p_id": 1116,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "643505": {
         "p_id": 1117,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "646023": {
         "p_id": 1118,
@@ -185,19 +185,19 @@
     },
     "646157": {
         "p_id": 1119,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "18"
+        "total_score": "16"
     },
     "648669": {
         "p_id": 1120,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "650237": {
         "p_id": 1121,
@@ -228,8 +228,8 @@
         "score_political_steps": "2",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "654589": {
         "p_id": 1125,
@@ -244,16 +244,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "662355": {
         "p_id": 1127,
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "694739": {
         "p_id": 1128,
@@ -265,27 +265,27 @@
     },
     "698117": {
         "p_id": 1129,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "703017": {
         "p_id": 1130,
         "score_political_steps": "1",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "18"
+        "score_edu": "11",
+        "total_score": "14"
     },
     "704661": {
         "p_id": 1131,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "705457": {
         "p_id": 1132,
@@ -300,32 +300,32 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "709173": {
         "p_id": 1134,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "724199": {
         "p_id": 1135,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "23"
+        "score_edu": "9",
+        "total_score": "15"
     },
     "726183": {
         "p_id": 1136,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "726431": {
         "p_id": 1137,
@@ -337,11 +337,11 @@
     },
     "727775": {
         "p_id": 1138,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "728327": {
         "p_id": 1139,
@@ -353,19 +353,19 @@
     },
     "729319": {
         "p_id": 1140,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "15"
     },
     "730391": {
         "p_id": 1141,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "731249": {
         "p_id": 1142,
@@ -377,11 +377,11 @@
     },
     "731629": {
         "p_id": 1143,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "734689": {
         "p_id": 1144,
@@ -393,11 +393,11 @@
     },
     "755761": {
         "p_id": 1145,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "769207": {
         "p_id": 1146,
@@ -420,48 +420,48 @@
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "782789": {
         "p_id": 1149,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "18"
     },
     "783399": {
         "p_id": 1150,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "783679": {
         "p_id": 1151,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "784141": {
         "p_id": 1152,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "26"
+        "score_edu": "9",
+        "total_score": "14"
     },
     "792153": {
         "p_id": 1153,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "17"
     },
     "799683": {
         "p_id": 1154,
@@ -476,24 +476,24 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "810569": {
         "p_id": 1156,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "811175": {
         "p_id": 1157,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "812769": {
         "p_id": 1158,
@@ -508,24 +508,24 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "814285": {
         "p_id": 1160,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "815831": {
         "p_id": 1161,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "817367": {
         "p_id": 1162,
@@ -545,27 +545,27 @@
     },
     "822315": {
         "p_id": 1164,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "842437": {
         "p_id": 1165,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "20"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "844189": {
         "p_id": 1166,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "16"
     },
     "844865": {
         "p_id": 1167,
@@ -580,16 +580,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "854869": {
         "p_id": 1169,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "855297": {
         "p_id": 1170,
@@ -617,19 +617,19 @@
     },
     "867449": {
         "p_id": 1173,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "867567": {
         "p_id": 1174,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "874193": {
         "p_id": 1175,
@@ -641,11 +641,11 @@
     },
     "876181": {
         "p_id": 1176,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "18",
-        "total_score": "27"
+        "score_edu": "8",
+        "total_score": "13"
     },
     "882717": {
         "p_id": 1177,
@@ -665,19 +665,19 @@
     },
     "894473": {
         "p_id": 1179,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "26"
+        "score_edu": "10",
+        "total_score": "12"
     },
     "900463": {
         "p_id": 1180,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "18"
     },
     "908663": {
         "p_id": 1181,
@@ -724,40 +724,40 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "962359": {
         "p_id": 1187,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "964713": {
         "p_id": 1188,
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "981251": {
         "p_id": 1189,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "981685": {
         "p_id": 1190,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "17"
     },
     "982323": {
         "p_id": 1191,
@@ -793,27 +793,27 @@
     },
     "1000407": {
         "p_id": 1195,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1001637": {
         "p_id": 1196,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "1002587": {
         "p_id": 1197,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "1004329": {
         "p_id": 1198,
@@ -852,8 +852,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1070983": {
         "p_id": 1203,
@@ -908,16 +908,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1101051": {
         "p_id": 1210,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1105539": {
         "p_id": 1211,
@@ -948,8 +948,8 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "21"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "1119259": {
         "p_id": 1215,
@@ -985,27 +985,27 @@
     },
     "1129859": {
         "p_id": 1219,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "8",
-        "total_score": "16"
+        "total_score": "14"
     },
     "1130879": {
         "p_id": 1220,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "1140491": {
         "p_id": 1221,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "20"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "1141793": {
         "p_id": 1222,
@@ -1025,11 +1025,11 @@
     },
     "1150579": {
         "p_id": 1224,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1150713": {
         "p_id": 1225,
@@ -1052,32 +1052,32 @@
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "1156893": {
         "p_id": 1228,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "18"
     },
     "1157187": {
         "p_id": 1229,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1161211": {
         "p_id": 1230,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1163737": {
         "p_id": 1231,
@@ -1092,32 +1092,32 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "22"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "1168011": {
         "p_id": 1233,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1170887": {
         "p_id": 1234,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "1172171": {
         "p_id": 1235,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1177155": {
         "p_id": 1236,
@@ -1129,43 +1129,43 @@
     },
     "1179591": {
         "p_id": 1237,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "1181125": {
         "p_id": 1238,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1181275": {
         "p_id": 1239,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1181279": {
         "p_id": 1240,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "1182387": {
         "p_id": 1241,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "8",
-        "total_score": "17"
+        "total_score": "15"
     },
     "1183381": {
         "p_id": 1242,
@@ -1188,16 +1188,16 @@
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "1196757": {
         "p_id": 1245,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1203831": {
         "p_id": 1246,
@@ -1268,8 +1268,8 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1230191": {
         "p_id": 1255,
@@ -1284,32 +1284,32 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "1234029": {
         "p_id": 1257,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1234663": {
         "p_id": 1258,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1236545": {
         "p_id": 1259,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "22"
+        "total_score": "16"
     },
     "1238075": {
         "p_id": 1260,
@@ -1324,8 +1324,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1243163": {
         "p_id": 1262,
@@ -1337,19 +1337,19 @@
     },
     "1244455": {
         "p_id": 1263,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1246677": {
         "p_id": 1264,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1246869": {
         "p_id": 1265,
@@ -1369,11 +1369,11 @@
     },
     "1251293": {
         "p_id": 1267,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "8",
-        "total_score": "16"
+        "total_score": "12"
     },
     "1253615": {
         "p_id": 1268,
@@ -1388,8 +1388,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1258803": {
         "p_id": 1270,
@@ -1404,8 +1404,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1267611": {
         "p_id": 1272,
@@ -1417,11 +1417,11 @@
     },
     "1269605": {
         "p_id": 1273,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "22"
+        "total_score": "16"
     },
     "1271293": {
         "p_id": 1274,
@@ -1436,8 +1436,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1276051": {
         "p_id": 1276,
@@ -1457,43 +1457,43 @@
     },
     "1282581": {
         "p_id": 1278,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "1283019": {
         "p_id": 1279,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1284217": {
         "p_id": 1280,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "23"
+        "score_edu": "9",
+        "total_score": "15"
     },
     "1287847": {
         "p_id": 1281,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1300409": {
         "p_id": 1282,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "1301087": {
         "p_id": 1283,
@@ -1508,16 +1508,16 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "20",
-        "total_score": "26"
+        "score_edu": "6",
+        "total_score": "12"
     },
     "1318305": {
         "p_id": 1285,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "1323365": {
         "p_id": 1286,
@@ -1537,43 +1537,43 @@
     },
     "1333997": {
         "p_id": 1288,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1335167": {
         "p_id": 1289,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1336987": {
         "p_id": 1290,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "1338065": {
         "p_id": 1291,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "16"
     },
     "1344091": {
         "p_id": 1292,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1348777": {
         "p_id": 1293,
@@ -1585,19 +1585,19 @@
     },
     "1348915": {
         "p_id": 1294,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1349167": {
         "p_id": 1295,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "1349877": {
         "p_id": 1296,
@@ -1620,8 +1620,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1372419": {
         "p_id": 1299,
@@ -1673,27 +1673,27 @@
     },
     "1374925": {
         "p_id": 1305,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "24"
+        "total_score": "16"
     },
     "1376491": {
         "p_id": 1306,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1377765": {
         "p_id": 1307,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1378293": {
         "p_id": 1308,
@@ -1729,19 +1729,19 @@
     },
     "1394211": {
         "p_id": 1312,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1407429": {
         "p_id": 1313,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "1409151": {
         "p_id": 1314,
@@ -1756,8 +1756,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1418329": {
         "p_id": 1316,
@@ -1780,24 +1780,24 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1422915": {
         "p_id": 1319,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1423457": {
         "p_id": 1320,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "16"
     },
     "1425299": {
         "p_id": 1321,
@@ -1809,11 +1809,11 @@
     },
     "1425571": {
         "p_id": 1322,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1430863": {
         "p_id": 1323,
@@ -1825,11 +1825,11 @@
     },
     "1433383": {
         "p_id": 1324,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1435195": {
         "p_id": 1325,
@@ -1841,11 +1841,11 @@
     },
     "1437339": {
         "p_id": 1326,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1437691": {
         "p_id": 1327,
@@ -1857,19 +1857,19 @@
     },
     "1439067": {
         "p_id": 1328,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "15"
     },
     "1439945": {
         "p_id": 1329,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "20"
+        "total_score": "16"
     },
     "1441973": {
         "p_id": 1330,
@@ -1892,8 +1892,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1449039": {
         "p_id": 1333,
@@ -1905,11 +1905,11 @@
     },
     "1465133": {
         "p_id": 1334,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1466315": {
         "p_id": 1335,
@@ -1929,11 +1929,11 @@
     },
     "1478863": {
         "p_id": 1337,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1483013": {
         "p_id": 1338,
@@ -1956,8 +1956,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "25"
+        "score_edu": "9",
+        "total_score": "17"
     },
     "1505847": {
         "p_id": 1341,
@@ -1972,8 +1972,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1513043": {
         "p_id": 1343,
@@ -1985,11 +1985,11 @@
     },
     "1513047": {
         "p_id": 1344,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1518259": {
         "p_id": 1345,
@@ -2001,11 +2001,11 @@
     },
     "1519185": {
         "p_id": 1346,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1524367": {
         "p_id": 1347,
@@ -2017,27 +2017,27 @@
     },
     "1527623": {
         "p_id": 1348,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1532255": {
         "p_id": 1349,
         "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "16"
+        "score_edu": "12",
+        "total_score": "14"
     },
     "1536983": {
         "p_id": 1350,
         "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "19"
+        "score_edu": "9",
+        "total_score": "11"
     },
     "1548291": {
         "p_id": 1351,
@@ -2049,43 +2049,43 @@
     },
     "1550311": {
         "p_id": 1352,
-        "score_political_steps": "7",
-        "score_race": 1,
-        "score_age": 0,
-        "score_edu": "16",
-        "total_score": "24"
-    },
-    "1550999": {
-        "p_id": 1353,
-        "score_political_steps": "7",
-        "score_race": 1,
-        "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
-    },
-    "1551703": {
-        "p_id": 1354,
-        "score_political_steps": "7",
-        "score_race": 1,
-        "score_age": 0,
-        "score_edu": "13",
-        "total_score": "21"
-    },
-    "1552387": {
-        "p_id": 1355,
-        "score_political_steps": "8",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
+        "total_score": "16"
+    },
+    "1550999": {
+        "p_id": 1353,
+        "score_political_steps": "5",
+        "score_race": 1,
+        "score_age": 0,
+        "score_edu": "11",
+        "total_score": "17"
+    },
+    "1551703": {
+        "p_id": 1354,
+        "score_political_steps": "5",
+        "score_race": 1,
+        "score_age": 0,
+        "score_edu": "13",
         "total_score": "19"
+    },
+    "1552387": {
+        "p_id": 1355,
+        "score_political_steps": "4",
+        "score_race": 1,
+        "score_age": 0,
+        "score_edu": "10",
+        "total_score": "15"
     },
     "1568833": {
         "p_id": 1356,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1570485": {
         "p_id": 1357,
@@ -2097,11 +2097,11 @@
     },
     "1570547": {
         "p_id": 1358,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1571537": {
         "p_id": 1359,
@@ -2113,19 +2113,19 @@
     },
     "1572635": {
         "p_id": 1360,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1572839": {
         "p_id": 1361,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1575841": {
         "p_id": 1362,
@@ -2137,75 +2137,75 @@
     },
     "1587197": {
         "p_id": 1363,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1587583": {
         "p_id": 1364,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "1593839": {
         "p_id": 1365,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1596895": {
         "p_id": 1366,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1597821": {
         "p_id": 1367,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1604059": {
         "p_id": 1368,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "1604541": {
         "p_id": 1369,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1607815": {
         "p_id": 1370,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1612001": {
         "p_id": 1371,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "17"
     },
     "1621115": {
         "p_id": 1372,
@@ -2217,51 +2217,51 @@
     },
     "1626763": {
         "p_id": 1373,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1630669": {
         "p_id": 1374,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "9",
-        "total_score": "18"
+        "total_score": "16"
     },
     "1631303": {
         "p_id": 1375,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1631841": {
         "p_id": 1376,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1633263": {
         "p_id": 1377,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1634959": {
         "p_id": 1378,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1635641": {
         "p_id": 1379,
@@ -2281,11 +2281,11 @@
     },
     "1638615": {
         "p_id": 1381,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1644835": {
         "p_id": 1382,
@@ -2308,24 +2308,24 @@
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "22"
+        "score_edu": "9",
+        "total_score": "14"
     },
     "1656987": {
         "p_id": 1385,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1658485": {
         "p_id": 1386,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "1660265": {
         "p_id": 1387,
@@ -2345,11 +2345,11 @@
     },
     "1673269": {
         "p_id": 1389,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "26"
+        "score_edu": "10",
+        "total_score": "12"
     },
     "1677291": {
         "p_id": 1390,
@@ -2364,16 +2364,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1679339": {
         "p_id": 1392,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "22"
+        "total_score": "16"
     },
     "1682355": {
         "p_id": 1393,
@@ -2385,19 +2385,19 @@
     },
     "1682591": {
         "p_id": 1394,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "1688409": {
         "p_id": 1395,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1689267": {
         "p_id": 1396,
@@ -2417,27 +2417,27 @@
     },
     "1692049": {
         "p_id": 1398,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "15"
     },
     "1692681": {
         "p_id": 1399,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1692763": {
         "p_id": 1400,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "1697675": {
         "p_id": 1401,
@@ -2452,8 +2452,8 @@
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1707755": {
         "p_id": 1403,
@@ -2465,11 +2465,11 @@
     },
     "1712517": {
         "p_id": 1404,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1712857": {
         "p_id": 1405,
@@ -2481,75 +2481,75 @@
     },
     "1718309": {
         "p_id": 1406,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "21"
+        "total_score": "15"
     },
     "1718337": {
         "p_id": 1407,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "25"
+        "score_edu": "9",
+        "total_score": "15"
     },
     "1723297": {
         "p_id": 1408,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "1726295": {
         "p_id": 1409,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "16"
     },
     "1727435": {
         "p_id": 1410,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "19",
-        "total_score": "27"
+        "score_edu": "7",
+        "total_score": "15"
     },
     "1730087": {
         "p_id": 1411,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1731569": {
         "p_id": 1412,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1734941": {
         "p_id": 1413,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "1736313": {
         "p_id": 1414,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1738505": {
         "p_id": 1415,
@@ -2564,8 +2564,8 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1739387": {
         "p_id": 1417,
@@ -2585,35 +2585,35 @@
     },
     "1740893": {
         "p_id": 1419,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "15"
     },
     "1746431": {
         "p_id": 1420,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1754559": {
         "p_id": 1421,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "17"
     },
     "1756667": {
         "p_id": 1422,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "22"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "1757463": {
         "p_id": 1423,
@@ -2628,8 +2628,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "1757785": {
         "p_id": 1425,
@@ -2649,35 +2649,35 @@
     },
     "1760107": {
         "p_id": 1427,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1760991": {
         "p_id": 1428,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "24"
+        "total_score": "14"
     },
     "1761371": {
         "p_id": 1429,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "20"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "1761743": {
         "p_id": 1430,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "17"
     },
     "1761763": {
         "p_id": 1431,
@@ -2692,48 +2692,48 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1763355": {
         "p_id": 1433,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "1765719": {
         "p_id": 1434,
-        "score_political_steps": "1",
+        "score_political_steps": 0,
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "16"
+        "score_edu": "12",
+        "total_score": "13"
     },
     "1765905": {
         "p_id": 1435,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1767375": {
         "p_id": 1436,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "19",
-        "total_score": "25"
+        "score_edu": "7",
+        "total_score": "13"
     },
     "1768233": {
         "p_id": 1437,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1768829": {
         "p_id": 1438,
@@ -2761,27 +2761,27 @@
     },
     "1780607": {
         "p_id": 1441,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1785191": {
         "p_id": 1442,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1785549": {
         "p_id": 1443,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1786077": {
         "p_id": 1444,
@@ -2820,24 +2820,24 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1790879": {
         "p_id": 1449,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1791149": {
         "p_id": 1450,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "20",
-        "total_score": "26"
+        "score_edu": "6",
+        "total_score": "12"
     },
     "1791377": {
         "p_id": 1451,
@@ -2857,19 +2857,19 @@
     },
     "1792531": {
         "p_id": 1453,
-        "score_political_steps": "1",
+        "score_political_steps": 0,
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "16"
+        "total_score": "15"
     },
     "1793997": {
         "p_id": 1454,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1794225": {
         "p_id": 1455,
@@ -2892,8 +2892,8 @@
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1801065": {
         "p_id": 1458,
@@ -2913,11 +2913,11 @@
     },
     "1807189": {
         "p_id": 1460,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1808717": {
         "p_id": 1461,
@@ -2948,8 +2948,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1815129": {
         "p_id": 1465,
@@ -3001,11 +3001,11 @@
     },
     "1825937": {
         "p_id": 1471,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "1828001": {
         "p_id": 1472,
@@ -3017,11 +3017,11 @@
     },
     "1828311": {
         "p_id": 1473,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "1831591": {
         "p_id": 1474,
@@ -3049,19 +3049,19 @@
     },
     "1835975": {
         "p_id": 1477,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "25"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "1844841": {
         "p_id": 1478,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "15"
     },
     "1845081": {
         "p_id": 1479,
@@ -3073,11 +3073,11 @@
     },
     "1846375": {
         "p_id": 1480,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "1848983": {
         "p_id": 1481,
@@ -3092,8 +3092,8 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1850929": {
         "p_id": 1483,
@@ -3108,16 +3108,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "1851973": {
         "p_id": 1485,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "18",
-        "total_score": "27"
+        "score_edu": "8",
+        "total_score": "15"
     },
     "1852051": {
         "p_id": 1486,
@@ -3132,88 +3132,88 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1856209": {
         "p_id": 1488,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "1857323": {
         "p_id": 1489,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1858747": {
         "p_id": 1490,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1860057": {
         "p_id": 1491,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1860737": {
         "p_id": 1492,
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1860835": {
         "p_id": 1493,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "18",
-        "total_score": "24"
+        "score_edu": "8",
+        "total_score": "14"
     },
     "1861177": {
         "p_id": 1494,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "1869479": {
         "p_id": 1495,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1870403": {
         "p_id": 1496,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1870439": {
         "p_id": 1497,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1873259": {
         "p_id": 1498,
@@ -3225,19 +3225,19 @@
     },
     "1874783": {
         "p_id": 1499,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1877643": {
         "p_id": 1500,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1879743": {
         "p_id": 1501,
@@ -3252,16 +3252,16 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "18",
-        "total_score": "25"
+        "score_edu": "8",
+        "total_score": "15"
     },
     "1884543": {
         "p_id": 1503,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1885139": {
         "p_id": 1504,
@@ -3276,8 +3276,8 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "1890779": {
         "p_id": 1506,
@@ -3289,11 +3289,11 @@
     },
     "1891491": {
         "p_id": 1507,
-        "score_political_steps": "2",
+        "score_political_steps": 0,
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "16"
+        "total_score": "14"
     },
     "1898367": {
         "p_id": 1508,
@@ -3308,8 +3308,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "19",
-        "total_score": "27"
+        "score_edu": "7",
+        "total_score": "15"
     },
     "1899645": {
         "p_id": 1510,
@@ -3329,35 +3329,35 @@
     },
     "1900951": {
         "p_id": 1512,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1900989": {
         "p_id": 1513,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1901639": {
         "p_id": 1514,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "1902067": {
         "p_id": 1515,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1902987": {
         "p_id": 1516,
@@ -3372,8 +3372,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1908725": {
         "p_id": 1518,
@@ -3393,11 +3393,11 @@
     },
     "1910803": {
         "p_id": 1520,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1911165": {
         "p_id": 1521,
@@ -3417,27 +3417,27 @@
     },
     "1912339": {
         "p_id": 1523,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1912879": {
         "p_id": 1524,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1912917": {
         "p_id": 1525,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "18",
-        "total_score": "24"
+        "score_edu": "8",
+        "total_score": "14"
     },
     "1913143": {
         "p_id": 1526,
@@ -3452,8 +3452,8 @@
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "22"
+        "score_edu": "9",
+        "total_score": "14"
     },
     "1914889": {
         "p_id": 1528,
@@ -3473,11 +3473,11 @@
     },
     "1915405": {
         "p_id": 1530,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "1916039": {
         "p_id": 1531,
@@ -3508,8 +3508,8 @@
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "1924649": {
         "p_id": 1535,
@@ -3529,11 +3529,11 @@
     },
     "1926181": {
         "p_id": 1537,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "19"
+        "total_score": "17"
     },
     "1926353": {
         "p_id": 1538,
@@ -3545,43 +3545,43 @@
     },
     "1926463": {
         "p_id": 1539,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "15"
     },
     "1927049": {
         "p_id": 1540,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "1927273": {
         "p_id": 1541,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1928207": {
         "p_id": 1542,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1929653": {
         "p_id": 1543,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1930585": {
         "p_id": 1544,
@@ -3593,19 +3593,19 @@
     },
     "1932837": {
         "p_id": 1545,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "24"
+        "total_score": "16"
     },
     "1935509": {
         "p_id": 1546,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1935873": {
         "p_id": 1547,
@@ -3617,11 +3617,11 @@
     },
     "1938115": {
         "p_id": 1548,
-        "score_political_steps": "3",
+        "score_political_steps": 0,
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "18"
+        "total_score": "15"
     },
     "1938201": {
         "p_id": 1549,
@@ -3633,11 +3633,11 @@
     },
     "1940691": {
         "p_id": 1550,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1942391": {
         "p_id": 1551,
@@ -3676,8 +3676,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "1952879": {
         "p_id": 1556,
@@ -3692,24 +3692,24 @@
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1956243": {
         "p_id": 1558,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "22"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "1958229": {
         "p_id": 1559,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1958605": {
         "p_id": 1560,
@@ -3721,27 +3721,27 @@
     },
     "1960543": {
         "p_id": 1561,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "1961301": {
         "p_id": 1562,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "1966321": {
         "p_id": 1563,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "17"
     },
     "1966851": {
         "p_id": 1564,
@@ -3772,8 +3772,8 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "1974861": {
         "p_id": 1568,
@@ -3801,19 +3801,19 @@
     },
     "1976605": {
         "p_id": 1571,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "1976731": {
         "p_id": 1572,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "9",
-        "total_score": "17"
+        "total_score": "15"
     },
     "1977353": {
         "p_id": 1573,
@@ -3825,27 +3825,27 @@
     },
     "1978449": {
         "p_id": 1574,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "1978599": {
         "p_id": 1575,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "1978889": {
         "p_id": 1576,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1979711": {
         "p_id": 1577,
@@ -3865,11 +3865,11 @@
     },
     "1980005": {
         "p_id": 1579,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1982563": {
         "p_id": 1580,
@@ -3881,11 +3881,11 @@
     },
     "1984375": {
         "p_id": 1581,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "17"
     },
     "1984819": {
         "p_id": 1582,
@@ -3916,8 +3916,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "1991077": {
         "p_id": 1586,
@@ -3929,19 +3929,19 @@
     },
     "1993993": {
         "p_id": 1587,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "25"
+        "score_edu": "12",
+        "total_score": "15"
     },
     "1994249": {
         "p_id": 1588,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "1996333": {
         "p_id": 1589,
@@ -3953,11 +3953,11 @@
     },
     "2002441": {
         "p_id": 1590,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2011465": {
         "p_id": 1591,
@@ -3988,16 +3988,16 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2014647": {
         "p_id": 1595,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2014793": {
         "p_id": 1596,
@@ -4020,16 +4020,16 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2015377": {
         "p_id": 1599,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2016911": {
         "p_id": 1600,
@@ -4060,16 +4060,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2019003": {
         "p_id": 1604,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2020911": {
         "p_id": 1605,
@@ -4081,19 +4081,19 @@
     },
     "2021701": {
         "p_id": 1606,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2025287": {
         "p_id": 1607,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2025455": {
         "p_id": 1608,
@@ -4116,8 +4116,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2029467": {
         "p_id": 1611,
@@ -4140,48 +4140,48 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2037837": {
         "p_id": 1614,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2043853": {
         "p_id": 1615,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "25"
+        "score_edu": "9",
+        "total_score": "17"
     },
     "2044441": {
         "p_id": 1616,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2052461": {
         "p_id": 1617,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2053645": {
         "p_id": 1618,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2054225": {
         "p_id": 1619,
@@ -4217,11 +4217,11 @@
     },
     "2065339": {
         "p_id": 1623,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "27"
+        "score_edu": "11",
+        "total_score": "13"
     },
     "2071775": {
         "p_id": 1624,
@@ -4233,11 +4233,11 @@
     },
     "2071877": {
         "p_id": 1625,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "15"
     },
     "2072325": {
         "p_id": 1626,
@@ -4249,19 +4249,19 @@
     },
     "2072903": {
         "p_id": 1627,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2074241": {
         "p_id": 1628,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "19",
-        "total_score": "26"
+        "score_edu": "7",
+        "total_score": "14"
     },
     "2075775": {
         "p_id": 1629,
@@ -4276,8 +4276,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2083123": {
         "p_id": 1631,
@@ -4292,40 +4292,40 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "20"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "2084743": {
         "p_id": 1633,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2086473": {
         "p_id": 1634,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2086637": {
         "p_id": 1635,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2086775": {
         "p_id": 1636,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2089701": {
         "p_id": 1637,
@@ -4337,11 +4337,11 @@
     },
     "2090459": {
         "p_id": 1638,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2092107": {
         "p_id": 1639,
@@ -4353,67 +4353,67 @@
     },
     "2093615": {
         "p_id": 1640,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2101713": {
         "p_id": 1641,
         "score_political_steps": "0",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "17"
+        "score_edu": "10",
+        "total_score": "11"
     },
     "2102733": {
         "p_id": 1642,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2109385": {
         "p_id": 1643,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2111275": {
         "p_id": 1644,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "2116717": {
         "p_id": 1645,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2116829": {
         "p_id": 1646,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2118341": {
         "p_id": 1647,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2125001": {
         "p_id": 1648,
@@ -4425,35 +4425,35 @@
     },
     "2125135": {
         "p_id": 1649,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2127023": {
         "p_id": 1650,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2132357": {
         "p_id": 1651,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2136629": {
         "p_id": 1652,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "18"
+        "total_score": "16"
     },
     "2138067": {
         "p_id": 1653,
@@ -4465,43 +4465,43 @@
     },
     "2141677": {
         "p_id": 1654,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2141839": {
         "p_id": 1655,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2142051": {
         "p_id": 1656,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2142099": {
         "p_id": 1657,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2143321": {
         "p_id": 1658,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2144713": {
         "p_id": 1659,
@@ -4516,56 +4516,56 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2145315": {
         "p_id": 1661,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2146471": {
         "p_id": 1662,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2146521": {
         "p_id": 1663,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2148015": {
         "p_id": 1664,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "2148893": {
         "p_id": 1665,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "25"
+        "total_score": "15"
     },
     "2150647": {
         "p_id": 1666,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2150703": {
         "p_id": 1667,
@@ -4585,35 +4585,35 @@
     },
     "2153591": {
         "p_id": 1669,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2153601": {
         "p_id": 1670,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2154415": {
         "p_id": 1671,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2154761": {
         "p_id": 1672,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "2155971": {
         "p_id": 1673,
@@ -4625,11 +4625,11 @@
     },
     "2158831": {
         "p_id": 1674,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2161255": {
         "p_id": 1675,
@@ -4665,27 +4665,27 @@
     },
     "2166521": {
         "p_id": 1679,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "2167453": {
         "p_id": 1680,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2168137": {
         "p_id": 1681,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "21"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "2169639": {
         "p_id": 1682,
@@ -4713,11 +4713,11 @@
     },
     "2171997": {
         "p_id": 1685,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "28"
+        "score_edu": "9",
+        "total_score": "12"
     },
     "2174237": {
         "p_id": 1686,
@@ -4753,35 +4753,35 @@
     },
     "2179295": {
         "p_id": 1690,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2205751": {
         "p_id": 1691,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2206813": {
         "p_id": 1692,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2207131": {
         "p_id": 1693,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "18"
     },
     "2207753": {
         "p_id": 1694,
@@ -4793,19 +4793,19 @@
     },
     "2210355": {
         "p_id": 1695,
-        "score_political_steps": "3",
+        "score_political_steps": 0,
         "score_race": 1,
         "score_age": 0,
         "score_edu": 0,
-        "total_score": "4"
+        "total_score": 1
     },
     "2211239": {
         "p_id": 1696,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2211773": {
         "p_id": 1697,
@@ -4817,11 +4817,11 @@
     },
     "2211779": {
         "p_id": 1698,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2212677": {
         "p_id": 1699,
@@ -4841,27 +4841,27 @@
     },
     "2215215": {
         "p_id": 1701,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "24"
+        "total_score": "14"
     },
     "2216625": {
         "p_id": 1702,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "18",
-        "total_score": "24"
+        "score_edu": "8",
+        "total_score": "14"
     },
     "2218005": {
         "p_id": 1703,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2219299": {
         "p_id": 1704,
@@ -4884,40 +4884,40 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "19",
-        "total_score": "24"
+        "score_edu": "7",
+        "total_score": "12"
     },
     "2227047": {
         "p_id": 1707,
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2227745": {
         "p_id": 1708,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "9",
-        "total_score": "18"
+        "total_score": "14"
     },
     "2228393": {
         "p_id": 1709,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2228681": {
         "p_id": 1710,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2231079": {
         "p_id": 1711,
@@ -4953,19 +4953,19 @@
     },
     "2235583": {
         "p_id": 1715,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2237055": {
         "p_id": 1716,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2237111": {
         "p_id": 1717,
@@ -4980,8 +4980,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2239179": {
         "p_id": 1719,
@@ -4993,27 +4993,27 @@
     },
     "2239403": {
         "p_id": 1720,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "24"
+        "total_score": "14"
     },
     "2243015": {
         "p_id": 1721,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2246951": {
         "p_id": 1722,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2247021": {
         "p_id": 1723,
@@ -5028,8 +5028,8 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "18",
-        "total_score": "24"
+        "score_edu": "8",
+        "total_score": "14"
     },
     "2247535": {
         "p_id": 1725,
@@ -5041,11 +5041,11 @@
     },
     "2249131": {
         "p_id": 1726,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2249677": {
         "p_id": 1727,
@@ -5073,51 +5073,51 @@
     },
     "2255167": {
         "p_id": 1730,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2256865": {
         "p_id": 1731,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "22"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "2257097": {
         "p_id": 1732,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2259031": {
         "p_id": 1733,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "18"
     },
     "2261673": {
         "p_id": 1734,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "26"
+        "score_edu": "12",
+        "total_score": "14"
     },
     "2264059": {
         "p_id": 1735,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2265281": {
         "p_id": 1736,
@@ -5193,11 +5193,11 @@
     },
     "2283987": {
         "p_id": 1745,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2283991": {
         "p_id": 1746,
@@ -5209,11 +5209,11 @@
     },
     "2284105": {
         "p_id": 1747,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2287223": {
         "p_id": 1748,
@@ -5228,16 +5228,16 @@
         "score_political_steps": "3",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "20"
+        "score_edu": "9",
+        "total_score": "12"
     },
     "2292541": {
         "p_id": 1750,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "28"
+        "score_edu": "10",
+        "total_score": "12"
     },
     "2293405": {
         "p_id": 1751,
@@ -5265,43 +5265,43 @@
     },
     "2295955": {
         "p_id": 1754,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "2296169": {
         "p_id": 1755,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2296453": {
         "p_id": 1756,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2296791": {
         "p_id": 1757,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "15"
     },
     "2296879": {
         "p_id": 1758,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2296989": {
         "p_id": 1759,
@@ -5313,11 +5313,11 @@
     },
     "2299489": {
         "p_id": 1760,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2300461": {
         "p_id": 1761,
@@ -5337,27 +5337,27 @@
     },
     "2302735": {
         "p_id": 1763,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2302771": {
         "p_id": 1764,
-        "score_political_steps": "1",
+        "score_political_steps": 0,
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "13"
+        "total_score": "12"
     },
     "2302963": {
         "p_id": 1765,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2305135": {
         "p_id": 1766,
@@ -5369,11 +5369,11 @@
     },
     "2306549": {
         "p_id": 1767,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2308025": {
         "p_id": 1768,
@@ -5404,40 +5404,40 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2310821": {
         "p_id": 1772,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2311713": {
         "p_id": 1773,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2312343": {
         "p_id": 1774,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2312649": {
         "p_id": 1775,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2314949": {
         "p_id": 1776,
@@ -5465,27 +5465,27 @@
     },
     "2319615": {
         "p_id": 1779,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2320991": {
         "p_id": 1780,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2325909": {
         "p_id": 1781,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2327101": {
         "p_id": 1782,
@@ -5497,35 +5497,35 @@
     },
     "2328849": {
         "p_id": 1783,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "15"
     },
     "2330119": {
         "p_id": 1784,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2331865": {
         "p_id": 1785,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "15"
     },
     "2332637": {
         "p_id": 1786,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2333153": {
         "p_id": 1787,
@@ -5537,11 +5537,11 @@
     },
     "2334663": {
         "p_id": 1788,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2336171": {
         "p_id": 1789,
@@ -5553,51 +5553,51 @@
     },
     "2336267": {
         "p_id": 1790,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "18"
+        "total_score": "16"
     },
     "2337841": {
         "p_id": 1791,
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2338101": {
         "p_id": 1792,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2338241": {
         "p_id": 1793,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2339573": {
         "p_id": 1794,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2340595": {
         "p_id": 1795,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2344635": {
         "p_id": 1796,
@@ -5612,8 +5612,8 @@
         "score_political_steps": "1",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "17"
+        "score_edu": "12",
+        "total_score": "15"
     },
     "2345685": {
         "p_id": 1798,
@@ -5641,11 +5641,11 @@
     },
     "2347263": {
         "p_id": 1801,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2352239": {
         "p_id": 1802,
@@ -5657,19 +5657,19 @@
     },
     "2352995": {
         "p_id": 1803,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "19"
+        "total_score": "15"
     },
     "2354673": {
         "p_id": 1804,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2355501": {
         "p_id": 1805,
@@ -5681,11 +5681,11 @@
     },
     "2356133": {
         "p_id": 1806,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2356411": {
         "p_id": 1807,
@@ -5700,16 +5700,16 @@
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2362051": {
         "p_id": 1809,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2363917": {
         "p_id": 1810,
@@ -5721,67 +5721,67 @@
     },
     "2401785": {
         "p_id": 1811,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "15"
     },
     "2402977": {
         "p_id": 1812,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2405443": {
         "p_id": 1813,
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "23"
+        "score_edu": "9",
+        "total_score": "15"
     },
     "2405521": {
         "p_id": 1814,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2408297": {
         "p_id": 1815,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "21"
+        "score_edu": "10",
+        "total_score": "15"
     },
     "2409221": {
         "p_id": 1816,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2409689": {
         "p_id": 1817,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "25"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2409887": {
         "p_id": 1818,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2409947": {
         "p_id": 1819,
@@ -5804,16 +5804,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2412127": {
         "p_id": 1822,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "22"
+        "score_edu": "9",
+        "total_score": "14"
     },
     "2413081": {
         "p_id": 1823,
@@ -5841,11 +5841,11 @@
     },
     "2417997": {
         "p_id": 1826,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2419259": {
         "p_id": 1827,
@@ -5876,16 +5876,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2423007": {
         "p_id": 1831,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "15"
     },
     "2424537": {
         "p_id": 1832,
@@ -5908,8 +5908,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2429297": {
         "p_id": 1835,
@@ -5921,11 +5921,11 @@
     },
     "2430011": {
         "p_id": 1836,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2430261": {
         "p_id": 1837,
@@ -5940,16 +5940,16 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "20"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "2430941": {
         "p_id": 1839,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2431217": {
         "p_id": 1840,
@@ -5964,8 +5964,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "18"
     },
     "2436775": {
         "p_id": 1842,
@@ -5980,8 +5980,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "19",
-        "total_score": "27"
+        "score_edu": "7",
+        "total_score": "15"
     },
     "2437991": {
         "p_id": 1844,
@@ -6017,11 +6017,11 @@
     },
     "2441833": {
         "p_id": 1848,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2442527": {
         "p_id": 1849,
@@ -6044,40 +6044,40 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2446617": {
         "p_id": 1852,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "8",
-        "total_score": "19"
+        "total_score": "11"
     },
     "2447595": {
         "p_id": 1853,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2449593": {
         "p_id": 1854,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "18"
     },
     "2450529": {
         "p_id": 1855,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2450675": {
         "p_id": 1856,
@@ -6089,19 +6089,19 @@
     },
     "2451027": {
         "p_id": 1857,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2452097": {
         "p_id": 1858,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2453103": {
         "p_id": 1859,
@@ -6164,40 +6164,40 @@
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "2473663": {
         "p_id": 1867,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2473823": {
         "p_id": 1868,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2478365": {
         "p_id": 1869,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2478473": {
         "p_id": 1870,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2478601": {
         "p_id": 1871,
@@ -6236,16 +6236,16 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2483979": {
         "p_id": 1876,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "2484003": {
         "p_id": 1877,
@@ -6257,27 +6257,27 @@
     },
     "2485757": {
         "p_id": 1878,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2485815": {
         "p_id": 1879,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "26"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2486709": {
         "p_id": 1880,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2489613": {
         "p_id": 1881,
@@ -6289,27 +6289,27 @@
     },
     "2493475": {
         "p_id": 1882,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2493771": {
         "p_id": 1883,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2494315": {
         "p_id": 1884,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2494345": {
         "p_id": 1885,
@@ -6321,59 +6321,59 @@
     },
     "2504621": {
         "p_id": 1886,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2504749": {
         "p_id": 1887,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2506415": {
         "p_id": 1888,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2507307": {
         "p_id": 1889,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2515925": {
         "p_id": 1890,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2519453": {
         "p_id": 1891,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2528583": {
         "p_id": 1892,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "9",
-        "total_score": "17"
+        "total_score": "15"
     },
     "2530989": {
         "p_id": 1893,
@@ -6393,19 +6393,19 @@
     },
     "2532753": {
         "p_id": 1895,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2533723": {
         "p_id": 1896,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2535467": {
         "p_id": 1897,
@@ -6428,16 +6428,16 @@
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2550963": {
         "p_id": 1900,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2551603": {
         "p_id": 1901,
@@ -6452,8 +6452,8 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2555043": {
         "p_id": 1903,
@@ -6465,11 +6465,11 @@
     },
     "2555355": {
         "p_id": 1904,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "25"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "2555743": {
         "p_id": 1905,
@@ -6505,19 +6505,19 @@
     },
     "2564393": {
         "p_id": 1909,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2564805": {
         "p_id": 1910,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2565397": {
         "p_id": 1911,
@@ -6532,8 +6532,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2573527": {
         "p_id": 1913,
@@ -6548,8 +6548,8 @@
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2578951": {
         "p_id": 1915,
@@ -6564,40 +6564,40 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "22"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "2582177": {
         "p_id": 1917,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2583199": {
         "p_id": 1918,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "22"
+        "score_edu": "10",
+        "total_score": "16"
     },
     "2585983": {
         "p_id": 1919,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2587161": {
         "p_id": 1920,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2587903": {
         "p_id": 1921,
@@ -6617,27 +6617,27 @@
     },
     "2588415": {
         "p_id": 1923,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2589615": {
         "p_id": 1924,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2590055": {
         "p_id": 1925,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2590127": {
         "p_id": 1926,
@@ -6657,35 +6657,35 @@
     },
     "2591515": {
         "p_id": 1928,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2595771": {
         "p_id": 1929,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2595819": {
         "p_id": 1930,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2602801": {
         "p_id": 1931,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2605123": {
         "p_id": 1932,
@@ -6708,24 +6708,24 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2613043": {
         "p_id": 1935,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2613965": {
         "p_id": 1936,
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "19",
-        "total_score": "24"
+        "score_edu": "7",
+        "total_score": "12"
     },
     "2614657": {
         "p_id": 1937,
@@ -6737,11 +6737,11 @@
     },
     "2623489": {
         "p_id": 1938,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2626745": {
         "p_id": 1939,
@@ -6801,43 +6801,43 @@
     },
     "2634995": {
         "p_id": 1946,
-        "score_political_steps": "12",
+        "score_political_steps": "0",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "25"
+        "total_score": "13"
     },
     "2635321": {
         "p_id": 1947,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2638587": {
         "p_id": 1948,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2638829": {
         "p_id": 1949,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2641193": {
         "p_id": 1950,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2641849": {
         "p_id": 1951,
@@ -6857,19 +6857,19 @@
     },
     "2642961": {
         "p_id": 1953,
-        "score_political_steps": "2",
+        "score_political_steps": 0,
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "17"
+        "score_edu": "12",
+        "total_score": "13"
     },
     "2643123": {
         "p_id": 1954,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "21"
+        "score_edu": "9",
+        "total_score": "13"
     },
     "2644371": {
         "p_id": 1955,
@@ -6900,32 +6900,32 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2647841": {
         "p_id": 1959,
-        "score_political_steps": "4",
+        "score_political_steps": 0,
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "19"
+        "total_score": "15"
     },
     "2649847": {
         "p_id": 1960,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "17"
     },
     "2652193": {
         "p_id": 1961,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "2654369": {
         "p_id": 1962,
@@ -6937,11 +6937,11 @@
     },
     "2656113": {
         "p_id": 1963,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2656603": {
         "p_id": 1964,
@@ -6953,19 +6953,19 @@
     },
     "2658259": {
         "p_id": 1965,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "7",
-        "total_score": "17"
+        "total_score": "9"
     },
     "2658325": {
         "p_id": 1966,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2658787": {
         "p_id": 1967,
@@ -6977,19 +6977,19 @@
     },
     "2658923": {
         "p_id": 1968,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "14"
     },
     "2658993": {
         "p_id": 1969,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2664913": {
         "p_id": 1970,
@@ -7025,35 +7025,35 @@
     },
     "2679207": {
         "p_id": 1974,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2679531": {
         "p_id": 1975,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2681949": {
         "p_id": 1976,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2684117": {
         "p_id": 1977,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2686295": {
         "p_id": 1978,
@@ -7076,16 +7076,16 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2687373": {
         "p_id": 1981,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "25"
+        "total_score": "15"
     },
     "2688009": {
         "p_id": 1982,
@@ -7100,8 +7100,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2689601": {
         "p_id": 1984,
@@ -7137,43 +7137,43 @@
     },
     "2696891": {
         "p_id": 1988,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2699851": {
         "p_id": 1989,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2699919": {
         "p_id": 1990,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2700049": {
         "p_id": 1991,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2700763": {
         "p_id": 1992,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2700937": {
         "p_id": 1993,
@@ -7185,11 +7185,11 @@
     },
     "2702683": {
         "p_id": 1994,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "16",
-        "total_score": "25"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2702949": {
         "p_id": 1995,
@@ -7233,27 +7233,27 @@
     },
     "2714381": {
         "p_id": 2000,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2714823": {
         "p_id": 2001,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2717509": {
         "p_id": 2002,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2718999": {
         "p_id": 2003,
@@ -7265,11 +7265,11 @@
     },
     "2722059": {
         "p_id": 2004,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2722303": {
         "p_id": 2005,
@@ -7289,11 +7289,11 @@
     },
     "2729357": {
         "p_id": 2007,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2729559": {
         "p_id": 2008,
@@ -7321,11 +7321,11 @@
     },
     "2733771": {
         "p_id": 2011,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "25"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2735307": {
         "p_id": 2012,
@@ -7340,8 +7340,8 @@
         "score_political_steps": "0",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "14"
+        "score_edu": "12",
+        "total_score": "12"
     },
     "2738737": {
         "p_id": 2014,
@@ -7353,11 +7353,11 @@
     },
     "2739675": {
         "p_id": 2015,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2740129": {
         "p_id": 2016,
@@ -7372,16 +7372,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2746227": {
         "p_id": 2018,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2746583": {
         "p_id": 2019,
@@ -7396,8 +7396,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2750953": {
         "p_id": 2021,
@@ -7420,16 +7420,16 @@
         "score_political_steps": "0",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "16"
+        "score_edu": "11",
+        "total_score": "12"
     },
     "2754001": {
         "p_id": 2024,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "2756929": {
         "p_id": 2025,
@@ -7441,35 +7441,35 @@
     },
     "2757001": {
         "p_id": 2026,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2757067": {
         "p_id": 2027,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2759363": {
         "p_id": 2028,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "24"
+        "score_edu": "10",
+        "total_score": "14"
     },
     "2759605": {
         "p_id": 2029,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "25"
+        "score_edu": "11",
+        "total_score": "13"
     },
     "2760291": {
         "p_id": 2030,
@@ -7489,27 +7489,27 @@
     },
     "2761753": {
         "p_id": 2032,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2762099": {
         "p_id": 2033,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "25"
+        "score_edu": "9",
+        "total_score": "17"
     },
     "2762767": {
         "p_id": 2034,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2763005": {
         "p_id": 2035,
@@ -7524,16 +7524,16 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "22"
+        "score_edu": "9",
+        "total_score": "14"
     },
     "2765643": {
         "p_id": 2037,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "20"
+        "total_score": "14"
     },
     "2765841": {
         "p_id": 2038,
@@ -7548,8 +7548,8 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2770541": {
         "p_id": 2040,
@@ -7561,19 +7561,19 @@
     },
     "2772065": {
         "p_id": 2041,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2772737": {
         "p_id": 2042,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2774941": {
         "p_id": 2043,
@@ -7596,8 +7596,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2776317": {
         "p_id": 2046,
@@ -7609,19 +7609,19 @@
     },
     "2776643": {
         "p_id": 2047,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2777181": {
         "p_id": 2048,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2777453": {
         "p_id": 2049,
@@ -7641,11 +7641,11 @@
     },
     "2779987": {
         "p_id": 2051,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2780785": {
         "p_id": 2052,
@@ -7660,8 +7660,8 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2782309": {
         "p_id": 2054,
@@ -7697,11 +7697,11 @@
     },
     "2786595": {
         "p_id": 2058,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2788261": {
         "p_id": 2059,
@@ -7716,8 +7716,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2793267": {
         "p_id": 2061,
@@ -7732,24 +7732,24 @@
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2801077": {
         "p_id": 2063,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2804089": {
         "p_id": 2064,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "15"
     },
     "2807193": {
         "p_id": 2065,
@@ -7780,24 +7780,24 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2808641": {
         "p_id": 2069,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "9",
-        "total_score": "17"
+        "total_score": "13"
     },
     "2809787": {
         "p_id": 2070,
         "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2810979": {
         "p_id": 2071,
@@ -7809,11 +7809,11 @@
     },
     "2813935": {
         "p_id": 2072,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2814059": {
         "p_id": 2073,
@@ -7825,43 +7825,43 @@
     },
     "2815685": {
         "p_id": 2074,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "25"
+        "total_score": "17"
     },
     "2816715": {
         "p_id": 2075,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2817849": {
         "p_id": 2076,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2821129": {
         "p_id": 2077,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "20",
-        "total_score": "27"
+        "score_edu": "6",
+        "total_score": "11"
     },
     "2822251": {
         "p_id": 2078,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2826185": {
         "p_id": 2079,
@@ -7884,24 +7884,24 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2829661": {
         "p_id": 2082,
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "22"
+        "score_edu": "9",
+        "total_score": "14"
     },
     "2832811": {
         "p_id": 2083,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "17"
     },
     "2836833": {
         "p_id": 2084,
@@ -7916,16 +7916,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2838801": {
         "p_id": 2086,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "16"
     },
     "2839127": {
         "p_id": 2087,
@@ -7937,19 +7937,19 @@
     },
     "2839181": {
         "p_id": 2088,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "24"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2839815": {
         "p_id": 2089,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2840173": {
         "p_id": 2090,
@@ -7964,8 +7964,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2842485": {
         "p_id": 2092,
@@ -7985,19 +7985,19 @@
     },
     "2843515": {
         "p_id": 2094,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "26"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2844419": {
         "p_id": 2095,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "17",
-        "total_score": "24"
+        "score_edu": "9",
+        "total_score": "16"
     },
     "2845201": {
         "p_id": 2096,
@@ -8020,16 +8020,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2846681": {
         "p_id": 2099,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "22"
+        "total_score": "16"
     },
     "2846721": {
         "p_id": 2100,
@@ -8044,8 +8044,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2849977": {
         "p_id": 2102,
@@ -8060,32 +8060,32 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "22"
+        "score_edu": "11",
+        "total_score": "18"
     },
     "2851445": {
         "p_id": 2104,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "21",
-        "total_score": "32"
+        "score_edu": "5",
+        "total_score": "8"
     },
     "2853477": {
         "p_id": 2105,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2853717": {
         "p_id": 2106,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2853837": {
         "p_id": 2107,
@@ -8105,35 +8105,35 @@
     },
     "2854677": {
         "p_id": 2109,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "7",
-        "total_score": "16"
+        "total_score": "10"
     },
     "2854889": {
         "p_id": 2110,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "10",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2854953": {
         "p_id": 2111,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "11",
-        "total_score": "21"
+        "total_score": "17"
     },
     "2855333": {
         "p_id": 2112,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2855435": {
         "p_id": 2113,
@@ -8164,32 +8164,32 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "20"
     },
     "2857579": {
         "p_id": 2117,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "10",
-        "total_score": "17"
+        "total_score": "15"
     },
     "2858443": {
         "p_id": 2118,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2859539": {
         "p_id": 2119,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "19"
+        "total_score": "17"
     },
     "2860697": {
         "p_id": 2120,
@@ -8201,19 +8201,19 @@
     },
     "2862779": {
         "p_id": 2121,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "23"
+        "total_score": "19"
     },
     "2866103": {
         "p_id": 2122,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 0,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2866203": {
         "p_id": 2123,
@@ -8225,59 +8225,59 @@
     },
     "2866293": {
         "p_id": 2124,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "26"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2867911": {
         "p_id": 2125,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2868501": {
         "p_id": 2126,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "21"
+        "total_score": "19"
     },
     "2868523": {
         "p_id": 2127,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2870179": {
         "p_id": 2128,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2870711": {
         "p_id": 2129,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2871939": {
         "p_id": 2130,
         "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "20"
+        "score_edu": "11",
+        "total_score": "16"
     },
     "2875975": {
         "p_id": 2131,
@@ -8297,11 +8297,11 @@
     },
     "2880739": {
         "p_id": 2133,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "23"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2882059": {
         "p_id": 2134,
@@ -8313,35 +8313,35 @@
     },
     "2882207": {
         "p_id": 2135,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "8",
-        "total_score": "17"
+        "total_score": "13"
     },
     "2882861": {
         "p_id": 2136,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2883019": {
         "p_id": 2137,
-        "score_political_steps": "12",
+        "score_political_steps": "0",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "27"
+        "score_edu": "12",
+        "total_score": "13"
     },
     "2887517": {
         "p_id": 2138,
         "score_political_steps": "2",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "19"
+        "score_edu": "11",
+        "total_score": "15"
     },
     "2888089": {
         "p_id": 2139,
@@ -8353,11 +8353,11 @@
     },
     "2889595": {
         "p_id": 2140,
-        "score_political_steps": "11",
+        "score_political_steps": "1",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "26"
+        "score_edu": "12",
+        "total_score": "14"
     },
     "2893053": {
         "p_id": 2141,
@@ -8369,27 +8369,27 @@
     },
     "2893071": {
         "p_id": 2142,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "24"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2893229": {
         "p_id": 2143,
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "17",
-        "total_score": "23"
+        "score_edu": "9",
+        "total_score": "15"
     },
     "2897303": {
         "p_id": 2144,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "20"
+        "total_score": "16"
     },
     "2898559": {
         "p_id": 2145,
@@ -8401,11 +8401,11 @@
     },
     "2899293": {
         "p_id": 2146,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "20"
     },
     "2900187": {
         "p_id": 2147,
@@ -8457,11 +8457,11 @@
     },
     "2910943": {
         "p_id": 2153,
-        "score_political_steps": "9",
+        "score_political_steps": "3",
         "score_race": 1,
         "score_age": 1,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "18"
     },
     "2911331": {
         "p_id": 2154,
@@ -8500,16 +8500,16 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2917189": {
         "p_id": 2159,
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "20"
+        "score_edu": "10",
+        "total_score": "14"
     },
     "2917523": {
         "p_id": 2160,
@@ -8524,8 +8524,8 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "19"
     },
     "2923211": {
         "p_id": 2162,
@@ -8540,16 +8540,16 @@
         "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2926595": {
         "p_id": 2164,
-        "score_political_steps": "8",
+        "score_political_steps": "4",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "22"
+        "total_score": "18"
     },
     "2926919": {
         "p_id": 2165,
@@ -8572,8 +8572,8 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2929957": {
         "p_id": 2168,
@@ -8588,8 +8588,8 @@
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "16",
-        "total_score": "23"
+        "score_edu": "10",
+        "total_score": "17"
     },
     "2930255": {
         "p_id": 2170,
@@ -8604,32 +8604,32 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2932727": {
         "p_id": 2172,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "12",
-        "total_score": "20"
+        "total_score": "18"
     },
     "2933033": {
         "p_id": 2173,
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "21"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2934313": {
         "p_id": 2174,
         "score_political_steps": "6",
         "score_race": 1,
         "score_age": 1,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "19"
     },
     "2942253": {
         "p_id": 2175,
@@ -8641,11 +8641,11 @@
     },
     "2942729": {
         "p_id": 2176,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2942743": {
         "p_id": 2177,
@@ -8665,27 +8665,27 @@
     },
     "2943311": {
         "p_id": 2179,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "22"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2943697": {
         "p_id": 2180,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "21"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2945353": {
         "p_id": 2181,
         "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "19"
+        "score_edu": "12",
+        "total_score": "17"
     },
     "2946347": {
         "p_id": 2182,
@@ -8697,19 +8697,19 @@
     },
     "2948891": {
         "p_id": 2183,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 0,
         "score_age": 0,
         "score_edu": "11",
-        "total_score": "18"
+        "total_score": "16"
     },
     "2950149": {
         "p_id": 2184,
         "score_political_steps": "3",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "18"
+        "score_edu": "12",
+        "total_score": "16"
     },
     "2951535": {
         "p_id": 2185,
@@ -8732,24 +8732,24 @@
         "score_political_steps": "6",
         "score_race": 0,
         "score_age": 0,
-        "score_edu": "14",
-        "total_score": "20"
+        "score_edu": "12",
+        "total_score": "18"
     },
     "2959699": {
         "p_id": 2188,
-        "score_political_steps": "7",
+        "score_political_steps": "5",
         "score_race": 1,
         "score_age": 0,
-        "score_edu": "15",
-        "total_score": "23"
+        "score_edu": "11",
+        "total_score": "17"
     },
     "2961175": {
         "p_id": 2189,
-        "score_political_steps": "10",
+        "score_political_steps": "2",
         "score_race": 1,
         "score_age": 0,
         "score_edu": "13",
-        "total_score": "24"
+        "total_score": "16"
     },
     "2961203": {
         "p_id": 2190,
